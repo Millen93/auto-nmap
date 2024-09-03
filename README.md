@@ -1,9 +1,14 @@
 ### AutoNmap
-==FOR ENTERTAINMENT PURPOSES ONLY, DEVELOPERS NOT RESPONSIBLE FOR USER ACTIONS==
+```diff
+@@ FOR ENTERTAINMENT PURPOSES ONLY, DEVELOPERS NOT RESPONSIBLE FOR USER ACTIONS @@
+```
 
-[![Usage on video deprececated: Please use the updated CLI. P.S.: Do not attempt to use credentials; they have been revoked.](src/nmap_scan.webm)]
+### Video
+Usage on video deprececated: Please use the updated CLI. P.S.: Do not attempt to use credentials; they have been revoked.
+![plot](src/nmap_scan.webm)
 
-[![Algorithm rus](src/algorithm)]
+### Algorithm(lang: rus)
+![plot](src/algorithm)
 
 Usage: ./nmap.sh [OPTION]...
 
