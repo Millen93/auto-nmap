@@ -5,6 +5,7 @@
 
 ### Video
 Usage on video deprececated: Please use the updated CLI. P.S.: Do not attempt to use credentials; they have been revoked.
+
 [nmap_scan.webm](https://github.com/user-attachments/assets/b1cea1ea-1bee-4e39-8901-4adbfa73f8b2)
 
 
