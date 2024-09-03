@@ -5,7 +5,7 @@
 
 ### Video
 Usage on video deprececated: Please use the updated CLI. P.S.: Do not attempt to use credentials; they have been revoked.
-![plot](src/nmap_scan.webm)
+![plot](https://github.com/Millen93/auto-nmap/blob/main/src/nmap_scan.webm)
 
 ### Algorithm(lang: rus)
 ![plot](src/algorithm)
